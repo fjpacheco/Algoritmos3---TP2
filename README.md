@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.com/JulianBiancardi/Algoritmos3---TP2.svg?token=EKxdtGcYaBFNUkEovYrj&branch=master)](https://travis-ci.com/JulianBiancardi/Algoritmos3---TP2)
 [![codecov](https://codecov.io/gh/JulianBiancardi/Algoritmos3---TP2/branch/master/graph/badge.svg?token=HGKUYEBHKW)](https://codecov.io/gh/JulianBiancardi/Algoritmos3---TP2)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Grupo de TP](https://img.shields.io/badge/N%C2%B0%20Grupo-9-blue)](https://github.com/JulianBiancardi/Algoritmos3---TP2)
@@ -28,6 +27,22 @@ Nombre | Padrón | Email
 Corrector: **[PICCO, Martín Alejandro](https://github.com/M-Picco)**
 
 ### Ver el informe completo [aquí](https://github.com/JulianBiancardi/Algoritmos3---TP2/blob/master/Grupo9-tp2s.pdf)
+
+## Imagenes de la aplicación
+
+![Inicio](/Imagenes/Inicio.png)
+
+![VoF](/Imagenes/VerdaderoFalso.png)
+
+![MultipleChoice](/Imagenes/MultipleChoice.png)
+
+![OrderedChoice](/Imagenes/OrderedChoice.png)
+
+![GroupChoice](/Imagenes/GroupChoice.png)
+
+![Random](/Imagenes/Random.png)
+
+![Podio](/Imagenes/Podio.png)
 
 ### Pre-requisitos
 
